@@ -1,0 +1,5 @@
+outs:
+- md5: 606b4919359ca5204d629ca14eafb6b3
+  size: 2140887
+  hash: md5
+  path: labeled_telegram_product_price_location.txt
